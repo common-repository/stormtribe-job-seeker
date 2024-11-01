@@ -1,0 +1,963 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: stdev_custom_posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-28 21:40+0100\n"
+"PO-Revision-Date: 2014-04-28 21:41+0100\n"
+"Last-Translator: Mattias <mattias@stormtribe.se>\n"
+"Language-Team: Stormtribe Development <mattias@stormtribe.se>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_n_noop:1,2;"
+"_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../stdev-job-seeker.php:152
+msgid "Job Seeker"
+msgstr "Jobbsökare"
+
+#: ../stdev-job-seeker.php:153
+msgid "Adds a scrolling jobs list"
+msgstr "Lägger till en rullande jobblista"
+
+#: ../stdev-job-seeker.php:182
+msgid "New title"
+msgstr "Ny titel"
+
+#: ../stdev-job-seeker.php:211
+msgid "Title"
+msgstr "Titel"
+
+#: ../stdev-job-seeker.php:215
+msgid "Number of jobs"
+msgstr "Antalet jobb"
+
+#: ../stdev-job-seeker.php:219
+msgid "Order by"
+msgstr "Sortera på"
+
+#: ../stdev-job-seeker.php:223
+msgid "Order"
+msgstr "Ordning"
+
+#: ../stdev-job-seeker.php:225
+msgid "Ascending"
+msgstr "Stigande"
+
+#: ../stdev-job-seeker.php:226
+msgid "Descending"
+msgstr "Fallande"
+
+#: ../stdev-job-seeker.php:230 ../admin/admin.php:256
+msgid "Animation time"
+msgstr "Animationstid"
+
+#: ../stdev-job-seeker.php:234 ../admin/admin.php:264
+msgid "Stop time"
+msgstr "Stopptid"
+
+#: ../my_job_seeker.php:15 ../my_job_seeker.php:27 ../admin/admin.php:240
+msgid "Jobs"
+msgstr "Jobb"
+
+#: ../my_job_seeker.php:16
+msgid "Job"
+msgstr "Jobb"
+
+#: ../my_job_seeker.php:17 ../my_job_seeker.php:18
+msgid "Add new job"
+msgstr "Lägg till nytt jobb"
+
+#: ../my_job_seeker.php:19
+msgid "Edit job"
+msgstr "Redigera jobb"
+
+#: ../my_job_seeker.php:20
+msgid "New job"
+msgstr "Nytt jobb"
+
+#: ../my_job_seeker.php:21
+msgid "All jobs"
+msgstr "Alla jobb"
+
+#: ../my_job_seeker.php:22
+msgid "View job"
+msgstr "Visa jobb"
+
+#: ../my_job_seeker.php:23
+msgid "Search jobs"
+msgstr "Sök jobb"
+
+#: ../my_job_seeker.php:24
+msgid "No jobs found"
+msgstr "Inga jobb hittades"
+
+#: ../my_job_seeker.php:25
+msgid "No jobs found in the trash"
+msgstr "Inga jobb hittades i papperskorgen"
+
+#: ../my_job_seeker.php:61 ../my_job_seeker.php:71
+msgid "Areas"
+msgstr "Områden"
+
+#: ../my_job_seeker.php:62
+msgid "Area"
+msgstr "Område"
+
+#: ../my_job_seeker.php:63
+msgid "Search areas"
+msgstr "Sök områden"
+
+#: ../my_job_seeker.php:64
+msgid "All areas"
+msgstr "Alla områden"
+
+#: ../my_job_seeker.php:65
+msgid "Parent area"
+msgstr "Områdesförälder"
+
+#: ../my_job_seeker.php:66
+msgid "Parent area:"
+msgstr "Områdesförälder:"
+
+#: ../my_job_seeker.php:67
+msgid "Edit area"
+msgstr "Redigera område"
+
+#: ../my_job_seeker.php:68
+msgid "Update area"
+msgstr "Uppdatera område"
+
+#: ../my_job_seeker.php:69
+msgid "Add new area"
+msgstr "Lägg till nytt område"
+
+#: ../my_job_seeker.php:70
+msgid "New area name"
+msgstr "Nytt områdesnamn"
+
+#: ../my_job_seeker.php:91 ../my_job_seeker.php:101
+msgid "Careers"
+msgstr "Yrken"
+
+#: ../my_job_seeker.php:92
+msgid "Career"
+msgstr "Yrke"
+
+#: ../my_job_seeker.php:93
+msgid "Search careers"
+msgstr "Sök yrken"
+
+#: ../my_job_seeker.php:94
+msgid "All careers"
+msgstr "Alla yrken"
+
+#: ../my_job_seeker.php:95
+msgid "Parent career"
+msgstr "Yrkesförälder"
+
+#: ../my_job_seeker.php:96
+msgid "Parent career:"
+msgstr "Yrkesförälder:"
+
+#: ../my_job_seeker.php:97
+msgid "Edit career"
+msgstr "Redigera yrke"
+
+#: ../my_job_seeker.php:98
+msgid "Update career"
+msgstr "Uppdatera yrke"
+
+#: ../my_job_seeker.php:99
+msgid "Add new career"
+msgstr "Lägg till nytt yrke"
+
+#: ../my_job_seeker.php:100
+msgid "New career name"
+msgstr "Nytt yrkesnamn"
+
+#: ../admin/admin.php:9
+msgid "Stormtribe Job Seeker"
+msgstr "Stormtribe Jobbsökare"
+
+#: ../admin/admin.php:10
+msgid "Information"
+msgstr "Information"
+
+#: ../admin/admin.php:12
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../admin/admin.php:30 ../admin/admin.php:76 ../admin/admin.php:301
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräckligt med rättigheter för att komma åt denna sida."
+
+#: ../admin/admin.php:39
+#, php-format
+msgid ""
+"Please reactivate this plugin. Version on these files is v%s. Version "
+"installed v%s."
+msgstr ""
+"Vänligen aktivera om detta plugin. Versionen på filerna är v%s. Versionen "
+"installerad är v%s."
+
+#: ../admin/admin.php:41
+#, php-format
+msgid ""
+"Please update WordPress to use this plugin correct. Version installed v%s."
+msgstr ""
+"Vänligen uppdatera WordPress för att använda detta plugin korrekt. Versionen "
+"installerad är v%s."
+
+#: ../admin/admin.php:43
+#, php-format
+msgid "Please update PHP to use this plugin correct. Version installed v%s."
+msgstr ""
+"Vänligen uppdatera PHP för att använda detta plugin korrekt. Versionen "
+"installerad är v%s."
+
+#: ../admin/admin.php:45
+#, php-format
+msgid "Your configuration file does not exists. Copy (%s) to (%s)"
+msgstr "Din konfigurationsfil existerar ej. Kopiera (%s) till (%s)"
+
+#: ../admin/admin.php:48
+msgid "No errors found with this plugin&hellip;"
+msgstr "Inga fel hittades i detta plugin&hellip;"
+
+#: ../admin/admin.php:51
+msgid "Thanks for using Stormtribe Job Seeker"
+msgstr "Tack för att du använder Stormtribe Job Seeker"
+
+#: ../admin/admin.php:53
+msgid "Use this product on your own risk"
+msgstr "Använd denna produkt på egen risk"
+
+#: ../admin/admin.php:81
+msgid "Saved&hellip;"
+msgstr "Sparad&hellip;"
+
+#: ../admin/admin.php:97 ../admin/admin.php:201
+msgid "General"
+msgstr "Generellt"
+
+#: ../admin/admin.php:98
+msgid "Taxonomy"
+msgstr "Taxonomi"
+
+#: ../admin/admin.php:99
+msgid "Globals"
+msgstr "Globalt"
+
+#: ../admin/admin.php:206
+msgid "Use excerpt"
+msgstr "Använd utdrag"
+
+#: ../admin/admin.php:207
+msgid "Use excerpt text instead of full text"
+msgstr "Använd utdragstext istället för hela texten"
+
+#: ../admin/admin.php:213 ../admin/admin.php:248
+msgid "Max length"
+msgstr "Max längd"
+
+#: ../admin/admin.php:214 ../admin/admin.php:249
+msgid "Max length of text when using full text"
+msgstr "Max textlängd när hela texten används"
+
+#: ../admin/admin.php:221
+msgid "By area"
+msgstr "Områdebaserat"
+
+#: ../admin/admin.php:222
+msgid ""
+"Display jobs in current area based on \"page/post name\" compared to area "
+"slug name"
+msgstr ""
+"Visa jobb i nuvarande område baserat på \"sida/postnamnet\" jämfört med "
+"områdes permalänk namn"
+
+#: ../admin/admin.php:228
+msgid "By career"
+msgstr "Yrkesbaserat"
+
+#: ../admin/admin.php:229
+msgid ""
+"Display jobs in current career based on \"page/post name\" compared to "
+"career slug name"
+msgstr ""
+"Visa jobb i nuvarande yrke baserat på \"sida/postnamnet\" jämfört med yrkets "
+"permalänk namn"
+
+#: ../admin/admin.php:235
+msgid "Scroller"
+msgstr "Rullningslista"
+
+#: ../admin/admin.php:241
+msgid "Default number of jobs to display (-1 = unlimited)"
+msgstr "Standardantalet jobb att visa (-1 = oändligt)"
+
+#: ../admin/admin.php:257
+msgid "Default animation time, in milliseconds (1000ms = 1 second)"
+msgstr "Standardanimationstid, i millisekunder (1000ms = 1 sekund)"
+
+#: ../admin/admin.php:265
+msgid "Default stop time between animations, in milliseconds"
+msgstr "Standardstoptid mellan animationer, i millisekunder"
+
+#: ../admin/admin.php:272
+msgid "Height"
+msgstr "Höjd"
+
+#: ../admin/admin.php:273
+msgid "CSS height of the list, in pixels"
+msgstr "CSS höjd på listan, i pixlar"
+
+#: ../admin/admin.php:285 ../admin/admin.php:391 ../admin/admin.php:393
+msgid "Save"
+msgstr "Spara"
+
+#: ../admin/admin.php:319 ../admin/admin.php:324
+msgid "Updated rewrite rules&hellip;"
+msgstr "Uppdaterade rewrite rules&hellip;"
+
+#: ../admin/admin.php:330
+msgid "Copy succeeded&hellip;"
+msgstr "Kopiering lyckades&hellip;"
+
+#: ../admin/admin.php:332
+msgid "Copy failed"
+msgstr "Kopiering misslyckades"
+
+#: ../admin/admin.php:355
+msgid "General site settings"
+msgstr "Generella siteinställningar"
+
+#: ../admin/admin.php:360
+msgid "Capability"
+msgstr "Egenskap"
+
+#: ../admin/admin.php:361
+msgid "Select a required user capability for adding jobs"
+msgstr "Välj en obligatorisk användaregenskap för att kunna lägga till jobb"
+
+#: ../admin/admin.php:369
+msgid "Restore file"
+msgstr "Återställ fil"
+
+#: ../admin/admin.php:370
+msgid "Copy original my_job_seeker.php file to upload directory"
+msgstr "Kopiera originalfilen my_job_seeker.php till uppladdningskatalogen"
+
+#: ../admin/admin.php:371
+msgid "Copy"
+msgstr "Kopiera"
+
+#: ../admin/admin.php:376 ../admin/admin.php:383
+msgid "Flush rewrite"
+msgstr "Flush rewrite"
+
+#: ../admin/admin.php:377
+msgid "Perform WordPress flush rewrite rules (hard)"
+msgstr "Utför WordPress flush rewrite rules (hård)"
+
+#: ../admin/admin.php:377
+msgid "Read more"
+msgstr "Läs mer"
+
+#: ../admin/admin.php:378 ../admin/admin.php:385
+msgid "Flush now"
+msgstr "Spola nu"
+
+#: ../admin/admin.php:384
+msgid "Perform WordPress flush rewrite rules (soft)"
+msgstr "Utför WordPress flush rewrite rules. (mjuk)"
+
+#: ../admin/admin.php:412 ../admin/admin.php:435
+#, php-format
+msgid "All none empty taxonomies associated with %s"
+msgstr "Alla icke tomma taxonomier associerade till %s"
+
+#: ../admin/admin.php:423 ../admin/admin.php:446
+#, php-format
+msgid "View all jobs filed under %s"
+msgstr "Visa alla jobb som ligger under %s"
+
+#: ../admin/admin.php:433 ../admin/admin.php:456
+msgid "No taxonomies found&hellip;"
+msgstr "Inga taxonomier hittades&hellip;"
+
+#~ msgid "CSS height in pixels of the scroller"
+#~ msgstr "CSS höjd på listan, i pixlar"
+
+#~ msgid "Stormtribe Job Seeker widget"
+#~ msgstr "Stormtribe Jobbsökare widget"
+
+#~ msgid "Other"
+#~ msgstr "Övrigt"
+
+#, fuzzy
+#~ msgid "Posts"
+#~ msgstr "Antal poster"
+
+#~ msgid "Site Admin"
+#~ msgstr "Site Inställningar"
+
+#, fuzzy
+#~ msgid "Jobs Categories"
+#~ msgstr "Alla kategorier"
+
+#, fuzzy
+#~ msgid "Job Category"
+#~ msgstr "Kategorinamn"
+
+#, fuzzy
+#~ msgid "Search Job Categories"
+#~ msgstr "Sök Receptkategorier"
+
+#, fuzzy
+#~ msgid "All Jobs Categories"
+#~ msgstr "Alla Receptkategorier"
+
+#, fuzzy
+#~ msgid "Edit Job Category"
+#~ msgstr "Redigera Receptkategori"
+
+#, fuzzy
+#~ msgid "Add New Job Category"
+#~ msgstr "Lägg till ny Receptkategori"
+
+#, fuzzy
+#~ msgid "New Job Category Name"
+#~ msgstr "Nytt Receptkategori namn"
+
+#, fuzzy
+#~ msgid "Job Categories"
+#~ msgstr "Alla kategorier"
+
+#~ msgid "Recipes"
+#~ msgstr "Recept"
+
+#~ msgid "Recipe"
+#~ msgstr "Recept"
+
+#~ msgid "View Recipe"
+#~ msgstr "Visa Recept"
+
+#~ msgid "Ingredients"
+#~ msgstr "Ingredienser"
+
+#~ msgid "Enter ingredients for the recipe"
+#~ msgstr "Ange ingredienser för receptet"
+
+#~ msgid ""
+#~ "By using this Stormtribe Product, you agree to %sthese%s terms and "
+#~ "conditions."
+#~ msgstr ""
+#~ "Genom att använda denna Stormtribe Produkt, går du med på %sföljande%s "
+#~ "villkor."
+
+#~ msgid "Saved..."
+#~ msgstr "Sparad..."
+
+#~ msgid "Security"
+#~ msgstr "Säkerhet"
+
+#, fuzzy
+#~ msgid "reCaptcha"
+#~ msgstr "Aktivera reCaptcha"
+
+#~ msgid "Enable reCaptcha"
+#~ msgstr "Aktivera reCaptcha"
+
+#~ msgid "Public key"
+#~ msgstr "Offentlig nyckel (public key)"
+
+#~ msgid "Private key"
+#~ msgstr "Privat nyckel (private key)"
+
+#~ msgid "No valid form ID attribute found"
+#~ msgstr "Inget giltigt form ID attribut funnet"
+
+#~ msgid "Unknown shortcode"
+#~ msgstr "Okänd shortcode"
+
+#~ msgid "Security check failed"
+#~ msgstr "Säkerhetskontroll misslyckades"
+
+#~ msgid "Please fill in the required fields"
+#~ msgstr "Vänligen fyll i de obligatoriska fälten"
+
+#~ msgid "Please enter a valid e-mail address"
+#~ msgstr "Vänligen ange en giltigt e-postadress"
+
+#~ msgid "Wrong verification code entered. (reCaptcha)"
+#~ msgstr "Fel verifikationskod angavs. (reCaptcha)"
+
+#~ msgid "[%s] Contact message"
+#~ msgstr "[%s] Kontaktmeddelande"
+
+#~ msgid "Failed to send e-mail"
+#~ msgstr "Misslyckades att skicka e-post"
+
+#~ msgid "E-mail sent!"
+#~ msgstr "E-post skickad!"
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "E-mail"
+#~ msgstr "E-post"
+
+#~ msgid "Message"
+#~ msgstr "Meddelande"
+
+#~ msgid "Send"
+#~ msgstr "Skicka"
+
+#~ msgid "Forms"
+#~ msgstr "Formulär"
+
+#, fuzzy
+#~ msgid "Gateways"
+#~ msgstr "Betalmetoder"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiverad"
+
+#~ msgid "Default"
+#~ msgstr "Förinställt"
+
+#, fuzzy
+#~ msgid "No payment gateways installed or activated in WordPress"
+#~ msgstr ""
+#~ "Inga betalmetoder installerade eller aktiverade under tillägg i Wordpress."
+
+#~ msgid "Antigua and Barbuda"
+#~ msgstr "Antigua och Barbuda"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnien och Hercegovina"
+
+#~ msgid "Central African Republic"
+#~ msgstr "Centralafrikanska republiken"
+
+#~ msgid "Czech Republic"
+#~ msgstr "Tjeckien"
+
+#~ msgid "Denmark"
+#~ msgstr "Danmark"
+
+#, fuzzy
+#~ msgid "Dominican Republic"
+#~ msgstr "Tjeckien"
+
+#, fuzzy
+#~ msgid "Equatorial Guinea"
+#~ msgstr "Papua Nya Guinea"
+
+#~ msgid "France"
+#~ msgstr "Frankrike"
+
+#~ msgid "Greenland"
+#~ msgstr "Grönland"
+
+#, fuzzy
+#~ msgid "Guinea"
+#~ msgstr "Papua Nya Guinea"
+
+#~ msgid "Hong Kong"
+#~ msgstr "Hongkong"
+
+#~ msgid "Korea North"
+#~ msgstr "Korea Nord"
+
+#~ msgid "Korea South"
+#~ msgstr "Korea Syd"
+
+#~ msgid "Kuwait"
+#~ msgstr "Kuwait"
+
+#~ msgid "Netherlands (Holland, Europe)"
+#~ msgstr "Nederländerna (Holland, Europa)"
+
+#~ msgid "New Caledonia"
+#~ msgstr "Nya kaledonien"
+
+#~ msgid "New Zealand"
+#~ msgstr "Nya Zeeland"
+
+#~ msgid "Norway"
+#~ msgstr "Norge"
+
+#~ msgid "Papua New Guinea"
+#~ msgstr "Papua Nya Guinea"
+
+#, fuzzy
+#~ msgid "Republic of Montenegro"
+#~ msgstr "Tjeckien"
+
+#, fuzzy
+#~ msgid "Republic of Serbia"
+#~ msgstr "Tjeckien"
+
+#~ msgid "South Africa"
+#~ msgstr "Sydafrika"
+
+#, fuzzy
+#~ msgid "Sudan"
+#~ msgstr "Sydsudan"
+
+#~ msgid "Sweden"
+#~ msgstr "Sverige"
+
+#~ msgid "Switzerland"
+#~ msgstr "Schweiz"
+
+#, fuzzy
+#~ msgid "Tanzania"
+#~ msgstr "Tanzania, Förenade republiken"
+
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "Trinidad och Tobago"
+
+#~ msgid "Turks and Caicos Is"
+#~ msgstr "Turks- och Caicosöarna"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "Förenta arabemiraten"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Storbritannien"
+
+#~ msgid "United States of America"
+#~ msgstr "Amerikas förenta stater (USA)"
+
+#~ msgid "Wallis and Futana Is"
+#~ msgstr "Wallis- och Futunaöarna"
+
+#, fuzzy
+#~ msgid "Congo, the Democratic Republic of the"
+#~ msgstr "Centralafrikanska republiken"
+
+#, fuzzy
+#~ msgid "Guinea-Bissau"
+#~ msgstr "Papua Nya Guinea"
+
+#, fuzzy
+#~ msgid "Iran, Islamic Republic of"
+#~ msgstr "Centralafrikanska republiken"
+
+#~ msgid "Korea, Republic of"
+#~ msgstr "Republiken Korea (Sydkorea)"
+
+#~ msgid "Micronesia, Federated States of"
+#~ msgstr "Mikronesiens federerade stater"
+
+#, fuzzy
+#~ msgid "Moldova, Republic of"
+#~ msgstr "Tjeckien"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nederländerna"
+
+#~ msgid "South Sudan"
+#~ msgstr "Sydsudan"
+
+#, fuzzy
+#~ msgid "Syrian Arab Republic"
+#~ msgstr "Centralafrikanska republiken"
+
+#~ msgid "Tanzania, United Republic of"
+#~ msgstr "Tanzania, Förenade republiken"
+
+#, fuzzy
+#~ msgid "Turks and Caicos Islands"
+#~ msgstr "Turks- och Caicosöarna"
+
+#~ msgid "United States"
+#~ msgstr "Förenta staterna"
+
+#, fuzzy
+#~ msgid "Venezuela, Bolivarian Republic of"
+#~ msgstr "Centralafrikanska republiken"
+
+#~ msgid "Wallis and Futuna"
+#~ msgstr "Wallis- och Futuna"
+
+#, fuzzy
+#~ msgid "Currency"
+#~ msgstr "Valuta"
+
+#, fuzzy
+#~ msgid "[SPACE]"
+#~ msgstr "[BLANKSTEG]"
+
+#~ msgid "Allow to upload only: %s"
+#~ msgstr "Tilllåt att ladda upp bara: %s"
+
+#, fuzzy
+#~ msgid "Test"
+#~ msgstr "[Testläge]"
+
+#, fuzzy
+#~ msgid "Shop Currency"
+#~ msgstr "Valuta placering"
+
+#, fuzzy
+#~ msgid "Currency symbol"
+#~ msgstr "Valuta symbol/text placering"
+
+#, fuzzy
+#~ msgid "Enter a symbol/name for currency"
+#~ msgstr "Ange en symbol/namn för valuta"
+
+#, fuzzy
+#~ msgid "Currency placment"
+#~ msgstr "Valuta placering"
+
+#, fuzzy
+#~ msgid "Currency symbol/text location"
+#~ msgstr "Valuta symbol/text placering"
+
+#, fuzzy
+#~ msgid "After price"
+#~ msgstr "Efter priset"
+
+#, fuzzy
+#~ msgid "After price with space"
+#~ msgstr "Efter priset med mellanrum"
+
+#, fuzzy
+#~ msgid "Before price"
+#~ msgstr "Innan priset"
+
+#, fuzzy
+#~ msgid "Before price with space"
+#~ msgstr "Innan priset med mellanrum"
+
+#, fuzzy
+#~ msgid "No decimals"
+#~ msgstr "Ingen PEAR"
+
+#, fuzzy
+#~ msgid "1 decimal"
+#~ msgstr "Decimal tecken"
+
+#, fuzzy
+#~ msgid "Decimal character"
+#~ msgstr "Decimal tecken"
+
+#, fuzzy
+#~ msgid "Visual decimal character in price"
+#~ msgstr "Visuellt decimal tecken i priser"
+
+#, fuzzy
+#~ msgid "Thousands seperator"
+#~ msgstr "Tusentals separerare"
+
+#, fuzzy
+#~ msgid "Visual thousands seperator on ad prices"
+#~ msgstr "Visuellt tusentals separerare på priser"
+
+#, fuzzy
+#~ msgid "Show tax"
+#~ msgstr "Visa moms"
+
+#, fuzzy
+#~ msgid "Show price with included tax"
+#~ msgstr "Visa pris med moms"
+
+#~ msgid "Next time <b>%s</b>"
+#~ msgstr "Nästa tid <b>%s</b>"
+
+#~ msgid "Failed to update database"
+#~ msgstr "Misslyckades att uppdatera databasen"
+
+#~ msgid "Choose group"
+#~ msgstr "Välj grupp"
+
+#~ msgid "Error in group. Please delete it."
+#~ msgstr "Fel i grupp. Vänligen ta bort den."
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Ads"
+#~ msgstr "Annonser"
+
+#~ msgid "Timer:"
+#~ msgstr "Timer:"
+
+#~ msgid "How often to run the timer? (in minutes)"
+#~ msgstr "Hur ofta ska timern köras? (i minuter)"
+
+#~ msgid "Use my cronjob instead of the timer"
+#~ msgstr "Använd mitt cronjob istället för timern"
+
+#~ msgid "Next run will occur <b>%s</b>"
+#~ msgstr "Nästa körning kommer ske <b>%s</b>"
+
+#~ msgid "Run timer now"
+#~ msgstr "Kör timer nu"
+
+#~ msgid "Setup a cronjob if you do not want to use the timer"
+#~ msgstr "Ställ in ett cronjob om du inte vill köra med timern"
+
+#~ msgid "You can try one of the following commands:"
+#~ msgstr "Du kan prova med en av följande kommandon:"
+
+#~ msgid ""
+#~ "Ads/banners are added to groups. So all ads/banners that are connected to "
+#~ "the same group will be rotated at the page."
+#~ msgstr ""
+#~ "Annonser/baners läggs in i grupper. Så alla annonser/baners som är "
+#~ "ansluten till samma grupp kommer att roteras på sidan."
+
+#~ msgid ""
+#~ "The order of the rotation is determined by the name of the ads/banners."
+#~ msgstr "Ordningen på rotationen bestäms av namnet på annonserna/baners."
+
+#~ msgid ""
+#~ "The ad/banner that are currently on display on your site is marked as "
+#~ "(active)."
+#~ msgstr ""
+#~ "Annonsen/banern som visas för tillfället på din site är markerad som "
+#~ "(aktiv)."
+
+#~ msgid ""
+#~ "Times rotated is how many times the ad/banner have been active on your "
+#~ "site."
+#~ msgstr ""
+#~ "Antal rotationer är hur många gånger annonsen/banern har varit aktiv på "
+#~ "din site."
+
+#~ msgid "Click on a field to edit it. To save just click outside the field."
+#~ msgstr ""
+#~ "Klicka på ett fält för att redigera det. För att spara klicka utanför "
+#~ "fältet."
+
+#~ msgid ""
+#~ "To get the shortcode for the group, just select it in the box and click "
+#~ "generate shortcode."
+#~ msgstr ""
+#~ "För att få shortcode till gruppen, välj den i rutan och klicka på "
+#~ "generera shortcode."
+
+#~ msgid "Group handling"
+#~ msgstr "Grupphantering"
+
+#~ msgid "Groups:"
+#~ msgstr "Grupper:"
+
+#~ msgid "Delete"
+#~ msgstr "Ta bort"
+
+#~ msgid "Generate shortcode"
+#~ msgstr "Generera shortcode"
+
+#~ msgid "Interval (in minutes)"
+#~ msgstr "Intervall (i minuter)"
+
+#~ msgid "For how long will the ad/banner be shown"
+#~ msgstr "Hur länge annonsen/banern ska visas"
+
+#~ msgid "Add"
+#~ msgstr "Lägg till"
+
+#~ msgid "Group name can not be numeric"
+#~ msgstr "Gruppnamn kan inte vara numerisk"
+
+#~ msgid "Group name taken"
+#~ msgstr "Gruppnamn upptagen"
+
+#~ msgid "Not allowed to delete Default group"
+#~ msgstr "Inte tillåten att ta bort förinställd grupp"
+
+#~ msgid "Unknown group"
+#~ msgstr "Okänd grupp"
+
+#~ msgid "Paste the following shortcode on your page/post: %s"
+#~ msgstr "Klistra in följande shortcode på din sida/inlägg: %s"
+
+#~ msgid "File uploading"
+#~ msgstr "Filuppladdning"
+
+#~ msgid "Add as many files you want at once. (Server upload size limit is %s)"
+#~ msgstr ""
+#~ "Lägg till så många filer du vill. (Serverns uppladdningsstorleksgräns är "
+#~ "%s)"
+
+#~ msgid "Choose files:"
+#~ msgstr "Välj filer:"
+
+#~ msgid "Name (optional):"
+#~ msgstr "Namn (frivilligt):"
+
+#~ msgid "Only required if no file are uploaded"
+#~ msgstr "Behövs endast om ingen fil laddas upp"
+
+#~ msgid "Assign to group:"
+#~ msgstr "Lägg till i grupp:"
+
+#~ msgid "Upload"
+#~ msgstr "Ladda upp"
+
+#~ msgid "day"
+#~ msgid_plural "days"
+#~ msgstr[0] "dag"
+#~ msgstr[1] "dagar"
+
+#~ msgid "h"
+#~ msgstr "h"
+
+#~ msgid "m"
+#~ msgstr "m"
+
+#~ msgid "Max 999 pictures at once."
+#~ msgstr "Max 999 bilder åt gången."
+
+#~ msgid "Picture upload error(%s) File: %s"
+#~ msgstr "Bilduppladdningsfel (%s) File: %s"
+
+#~ msgid "Unsupported image type. File: %s. Type: %s"
+#~ msgstr "Okänd bildtyp. Fil: %s. Typ: %s"
+
+#~ msgid "(Active)"
+#~ msgstr "(Aktiv)"
+
+#~ msgid "UNKNOWN GROUP"
+#~ msgstr "OKÄND GRUPP"
+
+#~ msgid "Make this ad active in its group"
+#~ msgstr "Gör denna annons aktiv i denna grupp"
+
+#~ msgid "Make active"
+#~ msgstr "Gör aktiv"
+
+#~ msgid "Thumb"
+#~ msgstr "Miniatyr"
+
+#~ msgid "Group (group number)"
+#~ msgstr "Grupp (gruppnummer)"
+
+#~ msgid "Times rotated"
+#~ msgstr "Antal växlingar"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Group"
+#~ msgstr "Grupp"
+
+#~ msgid "Ad"
+#~ msgstr "Annons"
+
+#~ msgid "Click on a field to edit it."
+#~ msgstr "Klicka på ett fält för att redigera det."

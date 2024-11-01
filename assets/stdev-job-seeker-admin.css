@@ -1,0 +1,32 @@
+#sjsa_logo{
+    /* float:right; */
+    position:absolute;
+    right: 0px;
+    top: 50px;
+}
+
+
+.sjsa_settings_form{
+    background-color: #F3F3F3;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float:left;
+    margin:5px;
+
+    border-width: 1px;
+    border-style:solid;
+    border-color:#DFDFDF;
+    border-radius:8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;    
+}
+
+.sjsa_settings_form input[type="text"] {
+    width:350px;
+}
+.sjsa_settings_form input[type="select"] {
+    width:350px;
+}
+
+
